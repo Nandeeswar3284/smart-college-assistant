@@ -1,0 +1,6 @@
+{
+  "name": "Smart College Assistant",
+  "description": "AI-powered digital campus companion connecting students, faculty, parents, and administrators with predictive attendance, academic planning, and smart campus tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
